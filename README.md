@@ -26,15 +26,6 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=radial" alt="Linguagens Mais Usadas" height="180em" />
-</p>
-
----
-
 ### 📫 Como me encontrar
 
 - 💼 LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
