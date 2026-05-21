@@ -28,9 +28,6 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos:
 
 ### 📫 Como me encontrar
 
-- 💼 LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- 📧 E-mail: seu.email@exemplo.com
-
 <!--
 **051-Severo/051-Severo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
